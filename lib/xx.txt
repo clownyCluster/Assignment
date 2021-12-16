@@ -1,0 +1,73 @@
+CircleAvatar(
+                          backgroundImage: AssetImage('assets/images/brad.jpg'),
+                          radius: 20,
+                        ),
+                        SizedBox(
+                          width: 20,
+                        ),
+                        Column(
+                          crossAxisAlignment: CrossAxisAlignment.start,
+                          children: [
+                            Text(
+                              'Brad Pitt',
+                              style: TextStyle(
+                                color: Colors.black,
+                                fontSize: 15,
+                                fontWeight: FontWeight.w400,
+                              ),
+                            ),
+                            Text(
+                              'Actor, Film Producer',
+                              style: TextStyle(
+                                fontSize: 10,
+                                color: Colors.black54,
+                              ),
+                            )
+                          ],
+                        ),
+
+
+
+
+
+// Bottom NavBar
+
+// bottomNavigationBar: BottomNavigationBar(
+      //   currentIndex: 1,
+      //   selectedItemColor: Colors.blue,
+      //   selectedIconTheme: IconThemeData(color: Colors.blue),
+      //   items: [
+      //     BottomNavigationBarItem(
+      //       icon: Icon(
+      //         Icons.home_outlined,
+      //         color: Colors.white,
+      //       ),
+      //       label: 'Home',
+      //       backgroundColor: Colors.white,
+      //     ),
+      //     BottomNavigationBarItem(
+      //       icon: Icon(
+      //         Icons.chat_bubble_outline_outlined,
+      //         color: Colors.white,
+      //       ),
+      //       label: 'Message',
+      //       backgroundColor: Colors.white,
+      //     ),
+      //     BottomNavigationBarItem(
+      //       icon: Icon(
+      //         Icons.notifications_none,
+      //         color: Colors.white,
+      //       ),
+      //       label: 'Notifications',
+      //       backgroundColor: Colors.white,
+      //     ),
+      //     BottomNavigationBarItem(
+      //       icon: Icon(
+      //         Icons.person_outline,
+      //         color: Colors.white,
+      //       ),
+      //       label: 'Profile',
+      //       backgroundColor: Colors.white,
+      //     ),
+      //   ],
+      // ),

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "929324086543",
+    "project_id": "assignment-c2979",
+    "storage_bucket": "assignment-c2979.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929324086543:android:72767e98755a5c6a81ba7a",
+        "android_client_info": {
+          "package_name": "com.clowny.assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929324086543-fmbo3m3f220blufb9arc1an1o8gnbaj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7c8eXljnYUJjhAmGIouqZiBuMSgEl5qM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929324086543-fmbo3m3f220blufb9arc1an1o8gnbaj1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
